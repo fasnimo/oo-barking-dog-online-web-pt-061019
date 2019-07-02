@@ -10,7 +10,7 @@ def name
 end
 
 def name
-
+    puts "Woof!"
 end
 end
 
