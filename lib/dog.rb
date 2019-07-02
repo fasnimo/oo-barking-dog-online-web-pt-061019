@@ -6,7 +6,7 @@ def name=(dogs_name)
 end
 
 def name
-
+    @name_of_dog
 end
 end
 
