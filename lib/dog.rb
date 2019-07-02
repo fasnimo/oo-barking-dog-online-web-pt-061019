@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
-def 
-  
-  
+def
+
+
 end
-end 
+end
